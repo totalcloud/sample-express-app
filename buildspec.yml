@@ -21,5 +21,6 @@ artifacts:
     - views/**/*
     - app.js
     - buildspec.yml
+    - appspec.yml
     - package.json
     - package-lock.json
