@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: "sample-web-app",
-    script: "./bin/www",
+    script: __dirname + "/bin/www",
     env: {
       NODE_ENV: "development",
     }
