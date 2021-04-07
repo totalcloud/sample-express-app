@@ -25,3 +25,4 @@ artifacts:
     - appspec.yml
     - package.json
     - package-lock.json
+    - ecosystem.config.js
