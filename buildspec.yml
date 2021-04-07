@@ -19,6 +19,7 @@ artifacts:
     - public/**/*
     - routes/**/*
     - views/**/*
+    - scripts/**/*
     - app.js
     - buildspec.yml
     - appspec.yml
