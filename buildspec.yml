@@ -21,6 +21,7 @@ artifacts:
     - views/**/*
     - scripts/**/*
     - app.js
+    - index.js
     - buildspec.yml
     - appspec.yml
     - package.json
