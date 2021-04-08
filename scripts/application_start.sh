@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pm2 start /home/ubuntu/nodejs/ecosystem.config.js
+nohup node index.js &
+echo $! > nohup_process.pid
